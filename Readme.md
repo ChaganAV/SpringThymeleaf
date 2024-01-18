@@ -1,0 +1,1 @@
+## Spring boot с шаблонизатором Thymeleaf
